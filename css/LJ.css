@@ -1,0 +1,225 @@
+div{
+  border: 0.1px solid lightgray;
+}
+div.mainlogin{
+  height: 300px;
+  width: 400px;
+  margin: 0 auto;
+}
+div.mainlogotext{
+  padding-top: 10px;
+  height: 40px;
+}
+h3.mainhead{
+
+  float: left;
+  font-size: 20px;
+  margin: 1px;
+}
+img.mainlogo{
+  margin-left: 10px;
+  float: left;
+}
+div.memberRadiogroup{
+  font-size: 12px;
+  clear: both;
+  height: 40px;
+}
+input.memberRadio{
+  margin-top: 13px;
+  float: left;
+  margin-left: 95px;
+}
+input.memberRadio1{
+  margin-top: 13px;
+  float: left;
+  margin-left: 55px;
+}
+
+p.memberRadiotext{
+    float: left;
+    margin-top: 11px;
+}
+p.memberRadiotext1{
+    color: gray;
+    float: left;
+    margin-top: 11px;
+}
+div.idpass{
+  height: 100px;
+}
+div.idpass div{
+  float: left;
+  height: 100px;
+}
+div.idpasstextdiv{
+  width: 100px;
+}
+div.idpassinputdiv{
+  width: 199px;
+}
+div.idpassbtndiv{
+  width: 100px;
+}
+p.idtext{
+  font-size: 12px;
+  margin: 20px;
+}
+input.idpassinput{
+  margin-left: 14px;
+  margin-top: 18px;
+}
+a.btnlogin{
+    width:90px;
+    background-color: #776B6D;
+    color:white;
+    padding: 22px 0;
+    border-radius:10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    margin: 15px 5px;
+    cursor: pointer;
+}
+button.btnq{
+  margin: 12px 5px;
+  font-size: 4px;
+}
+a.btnbottom{
+    width:86px;
+    background-color: #776B6D;
+    color:white;
+    padding: 5px 0;
+    border-radius:10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 20px 5px;
+    cursor: pointer;
+}
+div.btnbottomdiv{
+    margin-left: 100px;
+    width: 300px;
+    height: 69px;
+}
+input.joininput{
+  width: 500px;
+  height: 30px;
+}
+input.joinemailinput{
+  width: 235px;
+  height: 30px;
+}
+div.joininputdiv1{
+  position: relative;
+  padding: 20px;
+}
+div.joininputdiv2{
+  width: 510px;
+  position: relative;
+  padding: 20px;
+}
+div.jointop{
+  width: 525px;
+  padding: 5px 5px 5px 20px;;
+}
+div.join{
+  width: 550px;
+}
+span.agreetext{
+  margin: 5px;
+  font-size: 13px;
+}
+button.termsbtn{
+  font-size: 10px;
+}
+td.td2{
+  padding: 9.5px;
+  font-size: 10px;
+  background-color: gray;
+  color: white;
+}
+td.td1{
+  padding: 9.5px;
+  font-size: 10px;
+  background-color: gray;
+  color: white;
+  background-color: lightgray;
+  color: gray;
+}
+h4.choice{
+color: gray;
+}
+div.birthdiv{
+    width: 525px;
+    padding: 10px 5px 10px 20px;;
+}
+input.birthradio{
+  margin-left: 40px;
+}
+select.birthselect1{
+  margin-right: 20px;
+}
+select.birthselect, input.birthinput{
+  margin-right: 10px;
+}
+p.joinp{
+  position: absolute;
+  top: 28px;
+  right: 35px;
+  text-align: right;
+  font-size: 12px;
+  color: #B03634;
+}
+p.joinp1{
+  position: absolute;
+  top: 63px;
+  right: 35px;
+  text-align: right;
+  font-size: 12px;
+  color: #B03634;
+}
+span.bottomtextspan{
+font-size: 12px;
+
+}
+a.btnjoin{
+    width:100px;
+    background-color: gray;
+    color:white;
+    padding: 22px 0;
+    border-radius:10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    margin: 15px 5px 0 190px;;
+    cursor: pointer;
+}
+a.idcheck{
+    width:70px;
+    background-color: gray;
+    color:white;
+    padding: 5px 0;
+    border-radius:10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 13px;
+    cursor: pointer;
+    position: absolute;
+    top: 24px;
+    right: 29px;
+
+}
+
+p.joinp2{
+  position: absolute;
+  top: 28px;
+  right: 105px;
+  text-align: right;
+  font-size: 12px;
+  color: #B03634;
+}
